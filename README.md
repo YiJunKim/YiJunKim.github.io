@@ -1,44 +1,48 @@
-## Oleose - Mobile App Landing Page
+## YiJunKim Infomation
 
-Oleose is free bootstrap Bootstrap 3 template with eye catching fully responsive design for any app profissional landing page. Template comes with developer friendly and easy to customizable code. It works on all main web browsers 'IE8+', tablets and phones.
+## List 
 
-Template Link & Preview [Oleose Preview](http://www.scoopthemes.com/templates/Oleose-Theme/)
+* [Who am I?](#Who am I?)
+* [Skills](#Skills)
+* [Career](#career)
+* [Interests](#interest)
+* [Contact](#Contact)
 
-### Author
+## <a name="Who am I?"></a>Who am I?
+* ![Cover](http://i.imgur.com/O7FA0du.jpg?2)
+* name : Kim Yi Jun
+* age : 1991.12.26
+* address : Sudong-myeon, Namyangju-si, Gyeonggi-do, Korea
+* Man who wants to be a wonderful developer
+* etc..
+ * Hansung University Computer Science Department
+ * 2016.7 - 2017.2 SQISOFT intern
 
-Built with all the love in the world by Scoop Themes.
+## <a name="Skills"></a>Skills
 
-Check more of our open source templates and themes [http://scoopthemes.com](http://scoopthemes.com).
-
-Follow us on twitter and stay tuned for any upcoming free items [@ScoopThemes](https://twitter.com/ScoopThemes).
-
-### Features
-
-+ Built With Bootstrap 3 Latest Stable Version.
-+ Section Animation.
-+ Eye Catching
-+ JQuery Latest Plugins.
-+ Three Predefined Colors.
-+ Three Free Logo PSD.
-+ Mobile Mockups.
-+ Built With LESS.
-+ Well Documented.
-+ SEO Friendly.
-+ W3C Valid HTML5.
-
-### Changelog
-
-##### Version 1.2
-+ Bootstrap update 3.3.2
-+ Mobile menu disapear on link click
-+ Changing colors now easier
-+ Better project structure
-+ Bug fixes
+* Ruby, Ruby on Rails, HTML5, CSS3, JAVASCRIPT, Node js, Spring, JSP/Servlet
+* responsive web , Cross Browsing , WAI(Web Accessibility Initiative)
 
 
-### License
+## <a name="career"></a>Career
+| Period  | Content |
+| :---: | :---: |
+| 2016 | In-house solution hompage - FrontEND | 
+| 2016 |   In-house solution - FrontEND   | 
 
-All demos and examples, whether in a code project’s repository or displayed on a Scoop Themes site, are released under the terms of [CC0](http://en.wikipedia.org/wiki/Creative_Commons_license/).
 
-CC0 is even more permissive than the MIT license, allowing you to use the code in any manner you want, without any copyright headers, notices, or other attribution.
 
+## <a name="interest"></a>Interests
+web Development
+ - node.js
+ - electron
+ - ES6
+ - phonegap
+
+
+## <a name="Contact"></a>Contact
+* YiJun [Github] and [facebook]
+* email - ybc1439@gmail.com
+[Github]: https://github.com/YiJunKim
+[blog] : https://yijunkim.github.io/
+[facebook]: https://www.facebook.com/profile.php?id=100001445297733&ref=bookmarks
